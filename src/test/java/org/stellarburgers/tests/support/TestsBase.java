@@ -1,4 +1,4 @@
-package TestsSupport;
+package org.stellarburgers.tests.support;
 
 import org.junit.Before;
 

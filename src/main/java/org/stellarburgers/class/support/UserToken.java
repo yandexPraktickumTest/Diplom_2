@@ -1,4 +1,4 @@
-package ClassSupport;
+package org.stellarburgers.classs.support;
 
 public class UserToken
 {

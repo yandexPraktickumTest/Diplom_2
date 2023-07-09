@@ -1,4 +1,4 @@
-package TestsSupport;
+package org.stellarburgers.tests.support;
 
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.http.ContentType;

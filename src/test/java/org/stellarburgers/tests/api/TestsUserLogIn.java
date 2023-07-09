@@ -1,8 +1,8 @@
-package TestsApi;
+package org.stellarburgers.tests.api;
 
-import TestsSupport.ApiMethods;
-import TestsSupport.SupportForTestsBase;
-import TestsSupport.TestsBase;
+import org.stellarburgers.tests.support.ApiMethods;
+import org.stellarburgers.tests.support.SupportForTestsBase;
+import org.stellarburgers.tests.support.TestsBase;
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.response.ValidatableResponse;
 import org.junit.Before;

@@ -1,7 +1,7 @@
-package TestsSupport;
+package org.stellarburgers.tests.support;
 
 import ClassModel.*;
-import ClassSupport.UserToken;
+import org.stellarburgers.classs.support.UserToken;
 import io.qameta.allure.Step;
 import io.restassured.response.ValidatableResponse;
 
